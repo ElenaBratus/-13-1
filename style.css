@@ -8,20 +8,9 @@ navigation div {
     rgba(0, 0, 0, 0.65) 100%
   );
 } /*# sourceMappingURL=style.css.map */
-path:hover {
-  fill: white;
-}
-
-/* #Shape:hover {
-  fill: white;
-}
-#Shape_2:hover {
-  fill: white;
-}
-#Oval:hover {
+/* path:hover {
   fill: white;
 } */
-
-/* #Shape_2:hover {
+footer button:hover path {
   fill: white;
-} */
+}
